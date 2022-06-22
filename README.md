@@ -1,4 +1,4 @@
-[![MasterHead](https://www.trio.dev/hubfs/Imported_Blog_Media/dbc631c76245baabe08c31d016a94de2-2.jpg)](https://Bazee-code.io)
+<!-- [![MasterHead](https://www.trio.dev/hubfs/Imported_Blog_Media/dbc631c76245baabe08c31d016a94de2-2.jpg)](https://Bazee-code.io) -->
 
 <h1 align="center">Hi 👋, I'm Eugene Obare</h1>
 <h3 align="center">A passionate & creative software developer from Nairobi, Kenya</h3>
