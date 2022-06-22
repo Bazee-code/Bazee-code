@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eugene Obare</h1>
-<h3 align="center">A passionate software developer from Nairobi, Kenya</h3>
+<h3 align="center">An enthusiastic & curious software developer from Nairobi, Kenya</h3>
 
 <img align="right" alt="coding" src="https://cdn-images-1.medium.com/max/600/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" width="400" />
 
