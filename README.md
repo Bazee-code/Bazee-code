@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" src="https://cdn-images-1.medium.com/max/600/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" width="400" />
 
-- 🌱 I’m currently building iOS & android mobile apps for <a href="https://get-in.com" target="blank">**GetIn**</a>
+- 🌱 I’m currently a senior mobile app developer at <a href="https://get-in.com" target="blank">**GetIn**</a>
 
 - 💬 Ask me about **React, React Native, GraphQl**
 
