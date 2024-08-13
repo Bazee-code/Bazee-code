@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" src="https://cdn-images-1.medium.com/max/600/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" width="400" />
 
-- 🌱 Senior React, React Native Engineer
+- 🌱 React || React Native || Swift || Golang 
 
-- 💬 Ask me about **React, React Native, GraphQl**
+- 💬 Ask me about **React Native & Golang**
 
 - 📫 How to reach me **eugeneobare@gmail.com**
 
