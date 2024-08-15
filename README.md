@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" src="https://cdn-images-1.medium.com/max/600/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" width="400" />
 
-- 🌱 React || React Native || Swift || Golang 
+- 🌱 React | React Native | Swift | Golang Engineer
 
 - 💬 Ask me about **React Native & Golang**
 
