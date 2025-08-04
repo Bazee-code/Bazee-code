@@ -5,7 +5,7 @@
 
 - 🌱 React | React Native | SwiftUI | Golang Engineer
 
-- 💬 Get my new productivity app <a href="https://www.linkedin.com/in/eugene-obare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eugene-obare/" height="30" width="40" /></a>
+- 💬 Grab my productivity app <a href="https://apps.apple.com/us/app/stepguard-steps-to-unlock-apps/id6745701169" target="blank">here</a>
 
 - 📫 How to reach me **eugeneobare@gmail.com**
 
