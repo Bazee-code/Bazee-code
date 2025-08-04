@@ -5,7 +5,7 @@
 
 - 🌱 React | React Native | SwiftUI | Golang Engineer
 
-- 💬 Grab my productivity app <a href="https://apps.apple.com/us/app/stepguard-steps-to-unlock-apps/id6745701169" target="blank">here</a>
+- 💬 Grab my iOS productivity app <a href="https://apps.apple.com/us/app/stepguard-steps-to-unlock-apps/id6745701169" target="blank">here</a>
 
 - 📫 How to reach me **eugeneobare@gmail.com**
 
