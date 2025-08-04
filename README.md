@@ -7,7 +7,7 @@
 
 - 🏃🏼 Download my iOS health & productivity app <a href="https://apps.apple.com/us/app/stepguard-steps-to-unlock-apps/id6745701169" target="blank">here</a>
 
-- 📫 How to reach me **eugeneobare@gmail.com**
+- 📫 Contact me at **eugeneobare@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
