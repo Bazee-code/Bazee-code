@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" src="https://cdn-images-1.medium.com/max/600/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" width="400" />
 
-- 🌱 React | React Native | Swift | Golang Engineer
+- 🌱 React | React Native | SwiftUI | Golang Engineer
 
-- 💬 Ask me about **React Native & Golang**
+- 💬 Get my new productivity app <a href="https://www.linkedin.com/in/eugene-obare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eugene-obare/" height="30" width="40" /></a>
 
 - 📫 How to reach me **eugeneobare@gmail.com**
 
