@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" src="https://cdn-images-1.medium.com/max/600/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" width="400" />
 
-- 🌱 React | React Native | SwiftUI | Golang Engineer
+- 🌱 React | React Native | Swift & SwiftUI | Golang Engineer
 
 - 🏃🏼 Download my iOS health & productivity app <a href="https://apps.apple.com/us/app/stepguard-steps-to-unlock-apps/id6745701169" target="blank">here</a>
 
